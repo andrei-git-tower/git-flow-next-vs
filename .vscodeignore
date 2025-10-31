@@ -1,0 +1,18 @@
+.vscode/**
+.vscode-test/**
+src/**
+.gitignore
+.yarnrc
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
+.env
+.claude/**
+git-flow-next CONFIGURATION.md
+git-flow-next README.md
+git-flow-next commands.md
+readme.md
+test-extension.md
+git-flow-next-extension-0.1.0/**

@@ -1,0 +1,8 @@
+out
+node_modules
+.vscode-test/
+*.vsix
+.DS_Store
+test-git-repo/
+git-flow-next-extension-0.1.0/
+.env
